@@ -10,6 +10,10 @@
 - 💼 Management Accountant for 3 years.
 - 👩‍💼 Requirements Analyst for 6 months.
 
+### Goals
+
+- 🌱 Currently working on creating a portfolio on different topics I have encountered in my career so far, to help other juniors learn and to develop my own understanding.
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
