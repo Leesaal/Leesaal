@@ -1,10 +1,16 @@
-## Hi there 👋
+## Hello! I'm Leesa 🐈‍⬛
+
+### Current role
+
+- 👩‍🎓 Graduate Software Engineer for 1 year.
+- 👩‍🏫 Tutor (Maths and Science up to GCSE level) for 1 year.
+
+### Work history
+
+- 💼 Management Accountant for 3 years.
+- 👩‍💼 Requirements Analyst for 6 months.
 
 <!--
-**Leesaal/Leesaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
