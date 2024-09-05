@@ -12,7 +12,7 @@
 
 ### Goals
 
-- 🌱 Currently working on creating a portfolio on different topics I have encountered in my career so far, to help other juniors learn and to develop my own understanding.
+- 🌱 Currently working on creating a portfolio on different topics I have encountered in my career so far, to help other juniors learn as well as develop my own understanding.
 
 <!--
 - 🔭 I’m currently working on ...
