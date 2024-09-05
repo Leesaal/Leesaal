@@ -14,6 +14,8 @@
 
 - 🌱 Currently working on creating a portfolio on different topics I have encountered in my career so far, to help other juniors learn as well as develop my own understanding.
 
+_Please contact me if there are any inaccuracies in my projects or any suggested improvements 💛_
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
